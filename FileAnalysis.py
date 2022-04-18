@@ -1,5 +1,4 @@
 #Give the wordcount of a file
-
 Fname = input('enter a file name')
 try :
     OpenFile = open(Fname)
@@ -27,20 +26,17 @@ while RepeaterA :
 #Give each individual word once in alphabetical order.
 individual = dict.fromkeys(Storage)
 individuallist = list(individual)
-print(individuallist)
 Ipresent = sorted(individuallist)
 print('Each individual word in alphabetical order:',Ipresent)
 print('There are',len(Ipresent),'different individual words.')
 
 #Find the most commonly occuring word.
-print(Storage)
 commonwordcount = 0
 for word in Storage :
     counter = Storage.count(word)
     if commonwordcount < counter :
         commonwordcount = counter
         commonword = word
-        
-        
+              
 print('The word:',commonword,'. is the most commonly occuring word, occuring',commonwordcount,'times.' )
 print('program finished')
