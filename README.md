@@ -1,2 +1,2 @@
 # Early-Creations
-A collection of early and simple coding projects, including Scissors Paper Rock, Email domain changer, and more to come.  
+A collection of early and simple coding projects, including Scissors Paper Rock, Email domain changer, File Reader and analysis and more to come.  
