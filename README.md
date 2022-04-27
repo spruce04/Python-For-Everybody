@@ -1,2 +1,3 @@
 # Early-Creations
-A collection of early and simple coding projects, including Scissors Paper Rock, Email domain changer, File Reader and analysis and more to come.  
+A collection of early and simple coding projects in Python, including Scissors Paper Rock, Email domain changer, File Reader and analysis, with more to come.  
+Created after watching Python For Everybody lessons.
